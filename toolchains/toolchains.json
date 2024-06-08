@@ -1,0 +1,18 @@
+[
+  {
+    "default_toolchain": {
+      "ncs_version": "v2.6.0"
+    },
+    "schema": 1,
+    "toolchains": [
+      {
+        "identifier": {
+          "bundle_id": "cf2149caf2"
+        },
+        "ncs_versions": [
+          "v2.6.0"
+        ]
+      }
+    ]
+  }
+]
